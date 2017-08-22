@@ -1,0 +1,12 @@
+D:\SQL作业\VS练习\unit_资源管理器\unit_资源管理器\bin\Debug\unit_资源管理器.exe.config
+D:\SQL作业\VS练习\unit_资源管理器\unit_资源管理器\bin\Debug\unit_资源管理器.exe
+D:\SQL作业\VS练习\unit_资源管理器\unit_资源管理器\bin\Debug\unit_资源管理器.pdb
+D:\SQL作业\VS练习\unit_资源管理器\unit_资源管理器\obj\Debug\unit_资源管理器.From1.resources
+D:\SQL作业\VS练习\unit_资源管理器\unit_资源管理器\obj\Debug\unit_资源管理器.Properties.Resources.resources
+D:\SQL作业\VS练习\unit_资源管理器\unit_资源管理器\obj\Debug\unit_资源管理器.csproj.GenerateResource.Cache
+D:\SQL作业\VS练习\unit_资源管理器\unit_资源管理器\obj\Debug\unit_资源管理器.exe
+D:\SQL作业\VS练习\unit_资源管理器\unit_资源管理器\obj\Debug\unit_资源管理器.pdb
+D:\SQL作业\VS练习\unit_资源管理器\unit_资源管理器\obj\Debug\unit_资源管理器.csprojResolveAssemblyReference.cache
+D:\SQL作业\SQL\unit_资源管理器\unit_资源管理器\bin\Debug\unit_资源管理器.exe.config
+D:\SQL作业\SQL\unit_资源管理器\unit_资源管理器\obj\Debug\unit_资源管理器.exe
+D:\SQL作业\SQL\unit_资源管理器\unit_资源管理器\obj\Debug\unit_资源管理器.pdb
